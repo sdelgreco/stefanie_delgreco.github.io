@@ -1,7 +1,22 @@
 body {
   background-color: #f3f3f3;
-}
-#travel-title {
+} 
+
+#travel-title, .centered {
   font-family: helvetica;
   text-align: center;
 }
+
+#travel-title; font-color: white;
+
+.centered {
+  text-align: center;
+  font-family: helvetica;
+}
+
+  #place-title, .centered {
+    font-family: helvetica;
+    font-style: bold;
+    text-align: center;
+  }
+
