@@ -1,0 +1,32 @@
+
+body{
+  width: 100%;
+  height: 120%;
+}
+h1 {text-align: center;
+    font-family: league spartan;
+    font-weight: 700;
+    font-size: 150px;
+  }
+p {text-align: left;
+  font-family: josefin sans;
+} 
+body {
+display: flex;
+flex-direction: column;
+justify-content: left;
+align-items: left;
+  text-align: left;
+  font-family: libre baskerville;
+  font-weight: 100;
+  background-color: lightsteelblue;
+  color: white;
+}
+a {
+  color:midnightblue;
+  text-decoration: none;
+  font-weight: 700;
+}
+.linkedin {
+  color: tomato;
+}

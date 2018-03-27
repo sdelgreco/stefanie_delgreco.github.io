@@ -1,0 +1,18 @@
+body {
+	background: black;
+	color: white;
+  margin: 16px;
+  padding:16px;
+}
+#header {
+  text-align: center;
+}
+
+.text, .content {
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  margin: 0 auto;
+}
