@@ -1,0 +1,68 @@
+body {
+  width:720px;
+  padding: 54px;
+}
+
+h1 {
+color: #dd0000;
+font-family: lato;
+font-weight: lighter;
+font-size: 55px;
+}
+
+h2 {
+font-family: lato;
+font-size:30px;
+}
+
+li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 10px;
+  margin: auto;
+  color:#dddddd;
+ }
+
+li: hover {
+  color: #aa0000;
+  text-decoration: none;
+}
+
+.date {
+  color: #cccccc;
+  font-family: lato;
+  font-size: 40px;
+}
+
+h2 {
+  color: black;
+  font-family: lato;
+  font-weight: lighter;
+}
+
+p {
+  font-family: lato;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+.continues {
+   color: #dd0000;
+   font-family: lato;
+   font-weight: bolder;
+   float: right;
+}
+
+footer {
+  font-family: lato;
+  color: #dd0000;
+}
+
+footer: hover {
+  color: #aa0000;
+}
+
+.copyright {
+  color: #bbbbbb;
+}
+

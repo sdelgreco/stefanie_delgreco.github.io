@@ -7,12 +7,16 @@ body {
   font-family: helvetica;
   text-align: center;
   font-size: 25px;
+  background-color:#00CB9E;
+  color: white;
+  padding: 25px;
+  margin: 8px;
 }
 
 .centered {
   text-align: center;
   font-family: helvetica;
-  font-size: 16px;
+  font-size: 14px;
 }
 
   #place-title {
@@ -21,3 +25,6 @@ body {
     text-align: center;
   }
 
+.image {
+ padding
+}
