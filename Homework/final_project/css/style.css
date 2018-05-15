@@ -1,0 +1,37 @@
+/*fonts
+font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;*/
+
+body { 
+      background-image: url('../images/landing.jpg');
+      background-position: center center;
+      background-repeat:  no-repeat;
+      background-attachment: fixed;
+      background-size:  cover;
+}
+
+h1{
+  font-family:'Montserrat', sans-serif;
+  font-size: 50px;
+  padding-top: 5em;
+  text-align: center;
+  color: #fff;
+}
+
+.description {
+  color: #fff;
+  font-size: 20px;
+  font-kerning: 2px;
+  padding: 10em;
+  text-align: center;
+  line-height: 30px;
+}
+
+.button {
+  
+}
+
+
+
+
+
