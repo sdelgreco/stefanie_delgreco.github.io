@@ -1,7 +1,7 @@
 /* general style for the form */
 .nl-form {
 	width: 100%;
-	margin: 0.3em auto 0 auto;
+	margin: 120px auto 0 auto;
 	font-size: 4em;
 	line-height: 1.5;
 }
@@ -48,9 +48,9 @@
 .nl-form select  {
 	line-height: inherit;
 	display: inline-block;
-	color: #979797;
+	color: #ECECEC;
 	cursor: pointer;
-	border-bottom: 2px dashed #979797;
+	border-bottom: 3px dashed #ECECEC;
 }
 
 /* drop-down list / text element */
@@ -171,6 +171,7 @@ input:focus::-ms-input-placeholder {
 /* submit button */
 .nl-submit-wrap {
 	margin-top: 0.4em;
+
 }
 
 .nl-form .nl-submit {
@@ -180,7 +181,7 @@ input:focus::-ms-input-placeholder {
 	position: relative;
 	background: #FBD63D;
 	color: #fff;
-	padding: 0 1em 0 0;
+	padding: 0 1em  0;
 	font-size: 40%;
 	font-weight: bold;
 	letter-spacing: 3px;
@@ -201,7 +202,7 @@ input:focus::-ms-input-placeholder {
 }
 
 .no-touch .nl-form .nl-submit:hover:before {
-	background: #449FB5;
+	background: #116A8D;
 }
 
 /* overlay becomes visible when a field is opened */
@@ -230,7 +231,8 @@ input:focus::-ms-input-placeholder {
 
 @media screen and (max-width: 45em) {
 	.nl-form {
-		font-size: 3em;
+		font-size: 2em;
+		margin-top: 100px;
 	}
 }
 
